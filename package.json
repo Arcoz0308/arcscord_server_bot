@@ -5,7 +5,7 @@
 		"start": "node -r @swc-node/register -r tsconfig-paths/register ./src/index.ts"
 	},
 	"dependencies": {
-		"arcscord": "0.2.0-beta-5",
+		"arcscord": "0.2.0",
 		"discord.js": "^14.16.3",
 		"dotenv": "^16.4.5",
 		"typescript": "^5.4.5",
